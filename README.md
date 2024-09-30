@@ -2,9 +2,8 @@
 
 🫀 Heart Disease Prediction App 💖 :
 
-🚀 https://app-work-app-2-6b84scxqzpiyvhjlcrui9a.streamlit.app/
+🚀Link Of My App : https://app-work-app-2-6b84scxqzpiyvhjlcrui9a.streamlit.app/
 
-💻 
 
 Welcome to the Heart Disease Prediction App! This Streamlit web application predicts the likelihood of heart disease based on user-inputted medical parameters.
 
@@ -128,5 +127,7 @@ Providing educational resources and articles about heart health and disease prev
 For questions or feedback, please reach out to:
 
 Name: Oumayma Oueslati 🌟
+
 LinkedIn: https://www.linkedin.com/in/oumayma-oueslati-12a5462b2/ 🔗
+
 Email: oueslatioumayma157@gmail.com 📧
