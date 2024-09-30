@@ -1,6 +1,5 @@
-# Streamlit-Work-App-2 :
+#🫀 Heart Disease Prediction App 💖 :
 
-🫀 Heart Disease Prediction App 💖 :
 
 🚀Link Of My App : https://app-work-app-2-6b84scxqzpiyvhjlcrui9a.streamlit.app/
 
